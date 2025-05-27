@@ -25,3 +25,9 @@ print(full_name)
 -- Declare a local boolean variable and print its value
 local old = true
 print(old)
+
+
+-- C can be used throughout the program (global), while c only exist within this file or block (local)
+C = 19 -- global
+local c = 20 -- local
+print(C, c)
