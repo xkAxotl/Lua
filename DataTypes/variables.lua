@@ -11,5 +11,13 @@ print(num + 1)
 -- Declare a locar variable and print a sentence using string concatenation
 
 local food = "pozole"
-
 print("I like " .. food)
+
+
+-- Combine first and last name using local variables and string concatenation
+local name = 'Daniel'
+local surname = 'Smith'
+
+local full_name = name .. "" .. surname
+
+print(full_name)
