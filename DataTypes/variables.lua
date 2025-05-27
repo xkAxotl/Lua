@@ -7,3 +7,9 @@ local num = 20
 
 -- Print the result of adding 1 to the value of 'num' (outputs 21)
 print(num + 1)
+
+-- Declare a locar variable and print a sentence using string concatenation
+
+local food = "pozole"
+
+print("I like " .. food)
