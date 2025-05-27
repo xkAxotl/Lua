@@ -31,3 +31,11 @@ print(old)
 C = 19 -- global
 local c = 20 -- local
 print(C, c)
+
+print("\n")
+
+
+-- Reassign a global variable and print the update value
+num = 10
+num = 20
+print(num)
