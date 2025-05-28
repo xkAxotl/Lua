@@ -34,17 +34,22 @@ print("My favorite color is black!!\v")
 
 
 -- Convert a string to lowercase using string.lower()
-print("String to lowercase")
+print("\nString to lowercase:")
 local str3 = "PIZZA"
 print(string.lower(str3))
 
 
 -- Convert a string to uppercase using string.upper()
-print("String to uppercase")
+print("\nString to uppercase:")
 local str4 = "sunflower"
 print(string.upper(str4))
 
 -- Print the lenght of a string usin string.len()
-print("Word length")
+print("\nWord length:")
 local str5 = "Axotl"
 print(string.len(str5))
+
+
+-- Extract and print a substring from position 1 to 6 using string.sub()
+local str6 = "Mexico City"
+print(string.sub(str6, 1, 6))
