@@ -30,4 +30,4 @@ print(z)
 -- Print the value of pi and reference to the random function from the math library
 print("Using math library")
 print(math.pi)
-print(math.random)
+print(math.random())
