@@ -16,6 +16,7 @@ print(2^3)
 print(10 % 2)
 print((5 + 2) * 10 / 2)
 
+-- Adds the values of x and y , stores the result in z, then prints z
 x = 10
 y = 20
 
