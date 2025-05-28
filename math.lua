@@ -7,5 +7,9 @@ local str1 = "22"
 print(type(tonumber(str1)))
 
 
--- Adds three numbers
+-- Operations 
 print(10 + 10 + 1)
+print(2023 - 10)
+print(2 * 2)
+print(2 / 2)
+print(2^3)
