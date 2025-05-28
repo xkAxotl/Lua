@@ -43,3 +43,8 @@ print(string.lower(str3))
 print("String to uppercase")
 local str4 = "sunflower"
 print(string.upper(str4))
+
+-- Print the lenght of a string usin string.len()
+print("Word length")
+local str5 = "Axotl"
+print(string.len(str5))
