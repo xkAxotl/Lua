@@ -21,8 +21,8 @@ print((5 + 2) * 10 / 2)
 
 -- Adds the values of x and y , stores the result in z, then prints z
 print("Add two variables")
-x = 10
-y = 20
+local x = 10
+local y = 20
 
-z = x + y
+local z = x + y
 print(z)
