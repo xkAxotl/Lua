@@ -10,3 +10,7 @@ local str1 = [[
 ]]
 
 print(str1)
+
+-- Concatenate two string and print the result
+local str2 = "I have a "
+print(str2 .. " pug")
