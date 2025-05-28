@@ -24,3 +24,9 @@ print("Number to string:")
 local x = 22
 local y = tostring(x)
 print(type(x), type(y))
+
+-- Use escape characters: \n for newline, \t for tab, \v for vertical tab
+
+print("I speak spanish\n")
+print("\tI like pugs")
+print("My favorite color is black!!\v")
