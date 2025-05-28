@@ -36,3 +36,8 @@ print(math.random(10,50))
 -- Finds and print the smallest number in the given series using math.min
 print("Find the minimum of a number series")
 print(math.min(10,1,5,12,19,22,48))
+
+
+-- Finds and print the largest number in the given series using math.max
+print("Find the maxium of a number series")
+print(math.max(10,1,5,12,19,22,48))
