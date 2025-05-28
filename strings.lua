@@ -27,16 +27,19 @@ print(type(x), type(y))
 
 -- Use escape characters: \n for newline, \t for tab, \v for vertical tab
 
+print("Using escape characters:")
 print("I speak spanish\n")
 print("\tI like pugs")
 print("My favorite color is black!!\v")
 
 
 -- Convert a string to lowercase using string.lower()
+print("String to lowercase")
 local str3 = "PIZZA"
 print(string.lower(str3))
 
 
 -- Convert a string to uppercase using string.upper()
+print("String to uppercase")
 local str4 = "sunflower"
 print(string.upper(str4))
