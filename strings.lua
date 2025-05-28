@@ -30,3 +30,8 @@ print(type(x), type(y))
 print("I speak spanish\n")
 print("\tI like pugs")
 print("My favorite color is black!!\v")
+
+
+-- Convert a string to lowercase using string.lower()
+local str3 = "PIZZA"
+print(string.lower(str3))
