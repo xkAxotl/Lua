@@ -35,3 +35,8 @@ print("My favorite color is black!!\v")
 -- Convert a string to lowercase using string.lower()
 local str3 = "PIZZA"
 print(string.lower(str3))
+
+
+-- Convert a string to uppercase using string.upper()
+local str4 = "sunflower"
+print(string.upper(str4))
