@@ -53,3 +53,6 @@ print(string.len(str5))
 -- Extract and print a substring from position 1 to 6 using string.sub()
 local str6 = "Mexico City"
 print(string.sub(str6, 1, 6))
+
+local str = "Lua Programming"
+print(string.byte("A"))
