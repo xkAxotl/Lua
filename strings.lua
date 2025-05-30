@@ -54,5 +54,7 @@ print(string.len(str5))
 local str6 = "Mexico City"
 print(string.sub(str6, 1, 6))
 
+
+-- string.byte("A") returns the ASCII code of the character "A", which is 65
 local str = "Lua Programming"
 print(string.byte("A"))
